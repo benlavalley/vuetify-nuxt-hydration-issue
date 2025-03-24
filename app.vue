@@ -1,7 +1,7 @@
 <template>
   <Html lang="en">
     <Head>
-      <Title>Vuetify Hydration Issue</Title>
+      <Title>Nuxt Icon Hydration Issue</Title>
     </Head>
     <v-app>
       <NuxtLayout>
