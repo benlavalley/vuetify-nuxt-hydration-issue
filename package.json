@@ -18,6 +18,12 @@
   "devDependencies": {
     "@iconify-json/mdi": "^1.2.3",
     "@iconify/vue": "^4.3.0",
-    "@nuxt/icon": "^1.11.0"
+    "@nuxt/icon": "git://github.com/benlavalley/icon#bba6036"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@parcel/watcher",
+      "esbuild"
+    ]
   }
 }
